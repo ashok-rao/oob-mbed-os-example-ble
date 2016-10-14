@@ -44,6 +44,7 @@ The following targets have been tested and work with these examples:
 * Boards with an ST shield plugged in:
 	* K64F
 	* NUCLEO_F401RE
+	* NUCLEO_F429ZI + X-NUCLEO-IDB05A1
 
 	<span> **Important:** if an ST shield is used with the K64F board, an hardware is patch required. Check out https://developer.mbed.org/teams/ST/code/X_NUCLEO_IDB0XA1/ for more information.</span>
 

@@ -9,10 +9,10 @@
             "target.features_add": ["BLE"],
             "target.extra_labels_add": ["ST_BLUENRG"]
         },
-	"NUCLEO_F429ZI": {
-	    "target.features_add" : ["BLE"],
-	    "target.extra_labels_add": ["ST_BLUENRG"],
-	    "target.macros_add": ["IDB0XA1_D13_PATCH"]
-	}
+		"NUCLEO_F429ZI": {
+			"target.features_add" : ["BLE"],
+			"target.extra_labels_add": ["ST_BLUENRG"],
+			"target.macros_add": ["IDB0XA1_D13_PATCH"]
+		}
     }
 }

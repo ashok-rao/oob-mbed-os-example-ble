@@ -23,6 +23,11 @@
             "target.features_add": ["BLE"],
             "target.extra_labels_add": ["ST_BLUENRG"],
             "ble_button_pin_name": "USER_BUTTON"
-        }
+        },
+		"NUCLEO_F429ZI": {
+			"target.features_add" : ["BLE"],
+			"target.extra_labels_add": ["ST_BLUENRG"],
+			"target.macros_add": ["IDB0XA1_D13_PATCH"]
+		}
     }
 }
